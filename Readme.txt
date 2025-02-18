@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+The template for this website was adapted from Bootstrapmade. Additional forms for events were created using Javascript. 
 
 Template Name: Company
 Template URL: https://bootstrapmade.com/company-free-html-bootstrap-template/
